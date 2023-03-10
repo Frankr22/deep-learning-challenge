@@ -28,7 +28,7 @@ Our deep learning model was able to achieve an accuracy of 72.69% on the testing
 ## Recommendations
 If we were to attempt to solve this classification problem using a different model, we might consider using a random forest classifier or a support vector machine (SVM). Random forest classifiers are effective for classification problems with complex relationships between variables, while SVMs are effective for datasets with a high number of features. We could also consider feature selection or engineering to reduce the number of features and improve the model's performance.
 
-# References:
+## References:
 - IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/
 - TensorFlow. "Getting started with the Keras Sequential model." TensorFlow. https://www.tensorflow.org/guide/keras/sequential_model
 - Scikit-learn. "sklearn.model_selection.train_test_split." Scikit-learn. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
